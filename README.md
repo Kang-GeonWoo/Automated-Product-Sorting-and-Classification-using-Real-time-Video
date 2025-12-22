@@ -22,6 +22,6 @@ ESP32 기반 디팔렛타이저 로봇팔 모터 시퀀스 설계 및 입·출�
 시리얼 모니터 입력을 활용한 모터 각도 튜닝 도구 및 과부하 방지용 다단계 이동 로직 구현
 
 ## ★ 실행화면
-- 이미지 클릭 시 시연영상이 재생됩니다.
+- 클릭 시 시연영상이 재생됩니다.
 
-[![실행화면](images/123.PNG)](https://www.youtube.com/watch?v=3bsJ9UlJt_Q )
+[![실행화면](https://www.youtube.com/watch?v=3bsJ9UlJt_Q )
