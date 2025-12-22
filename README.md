@@ -1,6 +1,6 @@
 # 실시간 영상 분석을 통한 제품 자동정렬
 - GitHub를 사용하여 팀원들과 프로그램을 만들며 형상관리에 활용함.
-- 시연영상 : https://youtu.be/sHx8aYx18XY?si=O_vKtv4DHXr19nMm
+- 시연영상 : [https://youtu.be/sHx8aYx18XY?si=O_vKtv4DHXr19nMm](https://www.youtube.com/watch?v=3bsJ9UlJt_Q )
 
 ## ★ 수행기간
 2025.10 ~ 2025.12 
