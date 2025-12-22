@@ -1,2 +1,27 @@
-# Automated-Product-Sorting-and-Classification-using-Real-time-Video-Analysis
-모블교육센터 융합1기 최종 팀 프로젝트
+# 실시간 영상 분석을 통한 제품 자동정렬
+- GitHub를 사용하여 팀원들과 프로그램을 만들며 형상관리에 활용함.
+- 시연영상 : https://youtu.be/sHx8aYx18XY?si=O_vKtv4DHXr19nMm
+
+## ★ 수행기간
+2025.10 ~ 2025.12 
+
+## ★ 프로젝트 소개
+
+실시간 영상 분석 기반 제품 자동 정렬·입출고 시스템 구축
+라즈베리파이(카메라) + YOLO 서버 + 아두이노 카(라인트레이서) + 디팔렛타이저(ESP32 로봇팔) 통합 제어
+
+## ★ 사용 기술
+C, C++, C#, JS, JSON, Rasberry PI, Aduino, YOLO, 딥러닝
+
+## ★ 인력구성
+총 6명 (팀원)
+
+## ★ 담당업무
+라인트레이서 기반 아두이노 카 주행·정지 제어 로직 구현
+ESP32 기반 디팔렛타이저 로봇팔 모터 시퀀스 설계 및 입·출고 동작 구현
+시리얼 모니터 입력을 활용한 모터 각도 튜닝 도구 및 과부하 방지용 다단계 이동 로직 구현
+
+## ★ 실행화면
+- 이미지 클릭 시 시연영상이 재생됩니다.
+
+[![실행화면](images/123.PNG)](https://www.youtube.com/watch?v=3bsJ9UlJt_Q )
